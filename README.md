@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharon-kathambi&label=Profile%20views&color=0e75b6&style=flat" alt="sharon-kathambi" /> </p>
 
-- 🔭 I’m currently working on [the Nairobi foodie review](https://github.com/sharon-kathambi/foodie-review-frontend)
+- 🔭 I’m currently working on [code jobs - a web app that helps junior developers secure entry level jobs](https://github.com/sharon-kathambi/code-jobs.git)
 
 - 🌱 I’m currently learning **Rails, technical writing**
 
