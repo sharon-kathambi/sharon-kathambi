@@ -1,16 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sharon Kathambi Mwenda</h1>
-<h3 align="center">A passionate full stack developer from Nairobi,Kenya</h3>
+<h3 align="center">A passionate full stack developer </h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/331265/screenshots/2542587/gabi-d.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharon-kathambi&label=Profile%20views&color=0e75b6&style=flat" alt="sharon-kathambi" /> </p>
 
-- 🔭 I’m currently working on [code jobs - a web app that helps junior developers secure entry level jobs](https://github.com/sharon-kathambi/code-jobs.git)
-
-- 🌱 I’m currently learning **Rails, technical writing**
-
-- 📝 I regularly write articles on [https://medium.com/@thekenyanfemale.dev](https://medium.com/@thekenyanfemale.dev)
-
-- 💬 Ask me about **React, JavaScript, Ruby, Rails**
+- 💬 Ask me about **React, JavaScript, Ruby, Rails, C#**
 
 - 📫 How to reach me **smkathambi@gmail.com**
 
